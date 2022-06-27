@@ -18,6 +18,8 @@ a{
 .header{
     width: 100%;
     border-bottom: 2px solid #eee;
+    position: fixed;
+    background-color: #fff;
 }
 .container{
     width: 1140px;
